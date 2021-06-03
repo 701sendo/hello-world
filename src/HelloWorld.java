@@ -4,5 +4,6 @@ public class HelloWorld {
 		System.out.println("Hello World");		
 		System.out.println("Hi World");		
 		System.out.println("¾È³ç World");		
+		System.out.println("wow World");		
 	}
 }
